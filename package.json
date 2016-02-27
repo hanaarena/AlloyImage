@@ -1,0 +1,22 @@
+{
+  "name": "alloyimage",
+  "version": "1.2.0",
+  "description": "AlloyTeam's AlloyImage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanaarena/AlloyImage.git#import"
+  },
+  "keywords": [
+    "AlloyImage"
+  ],
+  "author": "AlloyTeam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hanaarena/AlloyImage/issues"
+  },
+  "homepage": "https://github.com/hanaarena/AlloyImage#readme"
+}
